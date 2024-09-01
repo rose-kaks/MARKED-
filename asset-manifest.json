@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MARKED-/static/css/main.0beea272.css",
+    "main.js": "/MARKED-/static/js/main.5bb10538.js",
+    "index.html": "/MARKED-/index.html",
+    "main.0beea272.css.map": "/MARKED-/static/css/main.0beea272.css.map",
+    "main.5bb10538.js.map": "/MARKED-/static/js/main.5bb10538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0beea272.css",
+    "static/js/main.5bb10538.js"
+  ]
+}
