@@ -1,0 +1,61 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "XYZ",
+      "attendance": {
+        "Math": 2,
+        "Science": 1,
+        "English": 2
+      }
+    }
+  ],
+  "attendance": [
+    {
+      "id": "1",
+      "studentId": "{\"subject\":\"Math\",\"date\":\"2024-08-30\"}",
+      "date": "2024-08-30"
+    },
+    {
+      "id": "2",
+      "studentId": "{\"subject\":\"Science\",\"date\":\"2024-08-30\"}",
+      "date": "2024-08-30"
+    },
+    {
+      "id": "3",
+      "studentId": "{\"subject\":\"Math\",\"date\":\"2024-08-29\"}",
+      "date": "2024-08-29"
+    },
+    {
+      "id": "4",
+      "studentId": "{\"subject\":\"English\",\"date\":\"2024-08-30\"}",
+      "date": "2024-08-30"
+    },
+    {
+      "id": "5",
+      "subject": "English",
+      "date": "2024-09-01"
+    }
+  ],
+  
+  "subjects": [
+    "Math",
+    "Science",
+    "English"
+  ],
+  "holidays": [
+    "2024-09-01",
+    "2024-09-15"
+  ],
+  "careerGoals": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "goal": "Engineer",
+      "suggestedSubjects": [
+        "Math",
+        "Science"
+      ]
+    }
+  ]
+}
